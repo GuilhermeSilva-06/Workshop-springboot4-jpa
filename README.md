@@ -178,21 +178,6 @@ O projeto pode ser desenvolvido utilizando diferentes IDEs, como:
 * Spring Tools Suite
 * Visual Studio Code
 
-## 📌 Próximos passos
-
-Algumas melhorias que podem ser implementadas futuramente:
-
-* [ ] Implementar tratamento global de exceções;
-* [ ] Adicionar validação dos dados recebidos pela API;
-* [ ] Criar documentação com Swagger/OpenAPI;
-* [ ] Adicionar mais testes automatizados;
-* [ ] Implementar paginação;
-* [ ] Implementar filtros e consultas personalizadas;
-* [ ] Melhorar o tratamento de erros HTTP;
-* [ ] Adicionar autenticação e autorização;
-* [ ] Criar Dockerfile e Docker Compose;
-* [ ] Configurar integração contínua (CI/CD).
-
 ## 👨‍💻 Autor
 
 **Guilherme Silva**
